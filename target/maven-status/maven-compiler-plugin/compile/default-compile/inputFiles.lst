@@ -1,0 +1,15 @@
+/home/matheus/IdeaProjects/Zoologico/src/main/java/Main.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/console/ExitCommand.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/console/ZooConsole.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/demo/DeadlockDemo.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/demo/StarvationDemo.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/model/Animal.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/model/Butterfly.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/model/Caterpillar.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/model/Diet.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/model/FoodSupply.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/model/FoodType.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/model/SpeciesAnimal.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/model/SpeciesSetup.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/thread/AnimalThread.java
+/home/matheus/IdeaProjects/Zoologico/src/main/java/zoo/thread/ZooManager.java
