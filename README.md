@@ -196,3 +196,4 @@ src/main/java/
 ## License
 
 Educational project — free to use, modify, and distribute.
+# Zoo
