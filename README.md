@@ -193,7 +193,3 @@ src/main/java/
         └── StarvationDemo.java       # Greedy-thread starvation + timeout fix
 ```
 
-## License
-
-Educational project — free to use, modify, and distribute.
-# Zoo
